@@ -38,3 +38,5 @@ For project inquiries, partnerships, and general questions, email **info@hellofu
 - **Campaign Link Builder.** Generate UTM links for multiple marketing channels and export a CSV. [Use the tool](https://hellofuturetechnologies.github.io/campaign-link-builder/) · [View source](https://github.com/hellofuturetechnologies/campaign-link-builder)
 
 - **CSV Quick Check.** Count records, find blank cells, and flag exact duplicate rows locally in your browser. [Use the tool](https://hellofuturetechnologies.github.io/csv-quick-check/) · [View source](https://github.com/hellofuturetechnologies/csv-quick-check)
+
+- **Social Media Image Resizer.** Crop, resize, and download images locally in your browser. [Use the tool](https://hellofuturetechnologies.github.io/social-media-image-resizer/) · [View source](https://github.com/hellofuturetechnologies/social-media-image-resizer)
