@@ -31,3 +31,8 @@ Our careers portal shares opportunities for students, graduates, and early-caree
 ## Contact
 
 For project inquiries, partnerships, and general questions, email **info@hellofuturetechnology.com** or call **+92 306 0007705**. [Contact information](https://career.hellofuturetechnology.com/contact)
+
+
+## Free tools
+
+- **Campaign Link Builder.** Generate UTM links for multiple marketing channels and export a CSV. [Use the tool](https://hellofuturetechnologies.github.io/campaign-link-builder/) · [View source](https://github.com/hellofuturetechnologies/campaign-link-builder)
